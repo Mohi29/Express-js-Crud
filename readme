@@ -1,0 +1,12 @@
+project-
+It is a project based on crud operation in expressjs with mongoose in nodejs,
+
+project desc:
+
+It contains app.js as a index.js file.
+package.json as conf file.
+access.log to hold logs in this file created by morgan logger.
+node_module have require node modules as per need in this project.
+
+Requirement:
+nodejs, expressjs, mongoose, npm packages
